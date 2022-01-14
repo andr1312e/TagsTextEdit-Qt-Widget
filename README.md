@@ -1,10 +1,12 @@
 # TabsTextEdit-Qt-Widget
 
-This is a simple, animated, high-performance input widget with textarea field.
+This is a simple, animated, high-performance input widget with textarea field. Simple code, few stl algorithms and no c++17 features, just for qt beginners.
 
-Use https://github.com/nicktrandafil/tags if you need lineEdit field
+Use https://github.com/nicktrandafil/tags if you need lineEdit field and new stl features
 
-Auto split input text into tags by comma, Space or Enter key.
+Auto split input text into tags by comma, Space or Enter key. 
+
+Auto scroll area.
 
 Auto prevent duplicate tags. If you don't need this feature remove `m_tagsPresenter->IsEditedTextHasDuplicate()` in `keyPressEvent` method
 
