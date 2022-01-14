@@ -1,6 +1,6 @@
 # TabsTextEdit-Qt-Widget
 
-This is a simple, animated, high-performance input widget with textarea field. Simple code, no stl algorithms and c++17 features, just for qt beginners.
+This is a simple, animated, high-performance input widget with textarea field. Simple code, few stl algorithms and no c++17 features, just for qt beginners.
 
 Use https://github.com/nicktrandafil/tags if you need lineEdit field and new stl features
 
