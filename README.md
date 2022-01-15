@@ -13,7 +13,7 @@ Auto prevent duplicate tags. If you don't need this feature remove `m_tagsPresen
 How to use:
 
 1. Copy TagsPresenter TagsLineEditWidget and Tag into your project
-2. App gui-private to .pro file, in linux you should add package to your repo
+2. Add gui-private to .pro file, in linux you should add package to your repo
 3. Add TagsLineEditWidget into layout or show it
 4. Connect to signals if it nessessary
 
