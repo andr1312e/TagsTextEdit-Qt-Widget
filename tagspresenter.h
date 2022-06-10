@@ -72,7 +72,7 @@ public://tags positions
     const QRect GetEditedTranslatedTagRect()const;
     const QRect GetTranslatedTagRectByIndex(int index) const;
     const QRect&  GetCurrentEdittedTagRect() const;
-    inline QRect GetCrossButtonRect(QRect const& r) const;
+    QRect GetCrossButtonRect(QRect const& r) const;
     int GetVericalScrollValue() const;
     void SetInputWidgetRect(const QRect &inputWidgetRect);
     int GetAllTagsHeight() const;
